@@ -46,7 +46,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007
 http://127.0.0.1:1984/itvx?channel=ITVBe
 #EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-chno="134" tvg-id="S4C.uk" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="Undefined",S4C HD
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
@@ -70,6 +70,8 @@ https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="ITV1Plus1.uk" group-title="+1",ITV1 +1
 https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/playlist.m3u8 
+#EXTINF:-1 tvg-id="Davejavu.uk" status="blocked",Dave ja vu (576p) [Geo-blocked] 
+ https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8 
 #EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="502" tvg-name="BBC Parliament" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png" tvg-id="BBCParliament.uk" group-title="UK",BBC Parliament
