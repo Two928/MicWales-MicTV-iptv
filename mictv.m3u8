@@ -44,7 +44,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:9aa1f5a1373671a15ee2db78fe3b9e5f
 http://127.0.0.1:1984/itvx?channel=ITVBe
-#EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W HD
+#EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
