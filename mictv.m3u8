@@ -4,21 +4,23 @@
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1,BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,ITV1 HD
+#EXTINF:-1,ITV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:06153ec0f57fce3444b29e0f1a3534fa
+#KODIPROP:inputstream.adaptive.license_key=2cd55e22f9bf46a0bb543ae9a0d7fd24:06153ec0f57fce3444b29e0f1a3534fa
 http://127.0.0.1:1984/itvx?channel=ITV
 #EXTINF:-1 tvg-id="Channel4.uk" status="online",Channel 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="Entertainment",Channel 5
-http://92.114.85.81:8000/play/a01g/index.m3u8
+#EXTINF:-1,Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8b21903e624e440fb5af1905c0faf248":"0b2e532085cfc181f52feb6a43a9140a","45c6381f47108adb9a26faa67085fe2e":"0b2e532085cfc181f52feb6a43a9140a"}
+https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
 #EXTINF:-1 tvg-id="ABTV.uk" tvg-name="ABTV" group-title="Animation" ABTV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 #EXTINF:-1 tvg-name="U&Dave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/1024px-Dave_2022.svg.png" tvg-id="Dave.uk" group-title="Entertainment",U&Dave
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UNKNOWN:554b5456444156455245414c4c595945
+#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live11/uktvdave/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="VirginMediaOne.ie" group-title="Entertainment",Virgin Media One HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
@@ -99,6 +101,10 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="Kids",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1,ITVX Kids (r.i.p CITV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840c2cb03a760f1558b0de950c2102db:18d7f4750489affe2bd15eff64bb2ac6
+http://127.0.0.1:1984/itvx?channel=fast6
 #EXTINF:-1 tvg-id="LollyKids.uk" tvg-logo="https://i.imgur.com/DOpgaBe.png" group-title="Kids",Lolly Kids SD
 http://45.225.95.170:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids HD
