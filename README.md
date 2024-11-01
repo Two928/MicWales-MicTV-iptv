@@ -4,7 +4,7 @@ Welcome to the MicTV project repository! This repository contains the `mictv.m3u
 
 ## Accessing the Playlist
 
-You can access the `mictv.m3u8` file directly [here](https://raw.githubusercontent.com/username/repository-name/main/mictv.m3u8).
+You can access the `mictv.m3u8` file directly [here](https://raw.githubusercontent.com/username/MicWales-MicTV-iptv/main/mictv.m3u8).
 
 ### Recommended Player
 
