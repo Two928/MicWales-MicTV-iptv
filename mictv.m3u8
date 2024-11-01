@@ -16,6 +16,14 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
 #EXTINF:-1 tvg-id="ABTV.uk" tvg-name="ABTV" group-title="Animation" ABTV
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+#EXTINF:-1 tvg-chno="109" group-title="Entertainment",U&W
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
+#EXTINF:-1 tvg-chno="110",Yesterday
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
+https://live-uktv.simplestreamcdn.com/live10/uktvyesterday/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-chno="111" tvg-name="U&Dave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/1024px-Dave_2022.svg.png" tvg-id="Dave.uk" group-title="Entertainment",U&Dave
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
@@ -44,10 +52,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=UNKNOWN:9aa1f5a1373671a15ee2db78fe3b9e5f
 http://127.0.0.1:1984/itvx?channel=ITVBe
-#EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W
+#EXTINF:-1 tvg-chno="132",Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
+https://live-uktv.simplestreamcdn.com/live12/uktvdrama/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-chno="134" tvg-id="S4C.uk" tvg-logo="https://i.imgur.com/vrcbnBv.png" group-title="Undefined",S4C HD
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-name="E4 HD" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/e4-epg.png" tvg-id="E4.uk" group-title="Entertainment",E4 HD
@@ -64,44 +72,44 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-chno="164" tvg-id="Blaze.uk" tvg-logo="https://i.imgur.com/6UcPWP9.png" group-title="Entertainment",Blaze HD
 https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
+#EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="General",PBS America HD
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-id="ITV1Plus1.uk" group-title="+1",ITV1 +1
 https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/playlist.m3u8 
-#EXTINF:-1 tvg-id="Davejavu.uk" status="blocked",Dave ja vu (576p) [Geo-blocked] 
+#EXTINF:-1 tvg-chno="211" tvg-id="Davejavu.uk" group-title="+1",U&Dave ja vu HD
  https://cdnuk001.broadcastcdn.net/KUK-DAVEJAVU/index.m3u8 
 #EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="502" tvg-name="BBC Parliament" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png" tvg-id="BBCParliament.uk" group-title="UK",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News HD
+#EXTINF:-1 tvg-chno="503" tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News HD
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News HD
+#EXTINF:-1 tvg-chno="504" tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.it" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s400" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-chno="505" tvg-id="AlJazeeraEnglish.it" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s400" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event HD
+#EXTINF:-1 tvg-chno="506" tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event HD
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg HD
+#EXTINF:-1 tvg-chno="507" tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg HD
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional HD
+#EXTINF:-1 tvg-chno="508" tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional HD
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-id="92NewsUK.uk" tvg-logo="https://i.imgur.com/nAldca2.png" group-title="News",92 News UK HD
+#EXTINF:-1 tvg-chno="509" tvg-id="92NewsUK.uk" tvg-logo="https://i.imgur.com/nAldca2.png" group-title="News",92 News UK HD
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak HD
+#EXTINF:-1 tvg-chno="510" tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
+#EXTINF:-1 tvg-chno="511" tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",BBC RB 1
+#EXTINF:-1 tvg-chno="599" tvg-id="",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbbc-epg.png" tvg-id="CBBC.uk" group-title="Kids",CBBC
+#EXTINF:-1 tvg-chno="601" tvg-name="CBBC" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbbc-epg.png" tvg-id="CBBC.uk" group-title="Kids",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbeebies-epg.png" tvg-id="CBeebies.uk" group-title="Kids",CBeebies
+#EXTINF:-1 tvg-chno="602" tvg-name="CBeebies" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbeebies-epg.png" tvg-id="CBeebies.uk" group-title="Kids",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:-1,ITVX Kids (r.i.p CITV)
+#EXTINF:-1 tvg-chno="603",ITVX Kids (r.i.p CITV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=840c2cb03a760f1558b0de950c2102db:18d7f4750489affe2bd15eff64bb2ac6
 http://127.0.0.1:1984/itvx?channel=fast6
