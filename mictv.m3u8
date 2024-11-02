@@ -15,7 +15,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-chno="105" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png",Channel 5
 http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD
-https://app.viloud.tv/hls/channel/b39f7e7b6a0694ff3cfaeea936e30050.m3u8
+https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="109" group-title="Entertainment",U&W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
