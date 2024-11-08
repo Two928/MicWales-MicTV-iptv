@@ -20,10 +20,8 @@ https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d668
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
-#EXTINF:-1 tvg-chno="110",U&Yesterday
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
-https://live-uktv.simplestreamcdn.com/live10/uktvyesterday/bitrate1.isml/live.mpd
+#EXTINF:-1 tvg-chno="110" group-title="Not Online\killed", Alan Becker TV HD
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-chno="111" tvg-name="U&Dave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/1024px-Dave_2022.svg.png" tvg-id="Dave.uk" group-title="Entertainment",U&Dave
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
