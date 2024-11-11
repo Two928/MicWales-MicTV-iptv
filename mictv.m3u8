@@ -206,7 +206,8 @@ http://media-ice.musicradio.com/ClassicFMMP3
 http://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1 tvg-chno="721" tvg-id="TransWorldRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Trans_World_Radio_logo.png" group-title="Radio",Trans World Radio
 https://direct.sharp-stream.com/twruk.mp3
-
+#EXTINF:-1 tvg-chno="990" tvg-epg="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml",Chl Line-up
+https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
 #EXTINF:-1 tvg-chno="951" tvg-id="BBCOneLondonHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="952" tvg-id="BBCOneNEHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One North East & Cumbria
