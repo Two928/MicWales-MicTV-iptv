@@ -1,6 +1,6 @@
  #EXTM3U
 
-#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="Entertainment",BBC One East Yorkshire & Lincolnshire HD 
+#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="Entertainment",BBC One Yk&Li HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -123,6 +123,12 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-chno="511" tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-id="AsharqNews.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/AsharqNews2020.png/revision/latest?cb=20221010150322",Asharq News (Arabic)
+https://news.sechls01.visionip.tv/live/visiontvuk-international-asharqnews-SD/playlist.m3u8
+#EXTINF:-1 tvg-chno="513" tvg-id="AlArabiya.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png/revision/latest?cb=20200509142618",Al Arabiya (Arabic)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-chno="599" tvg-id="",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="601" tvg-name="CBBC" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbbc-epg.png" tvg-id="CBBC.uk" group-title="Kids",CBBC
@@ -206,8 +212,8 @@ http://media-ice.musicradio.com/ClassicFMMP3
 http://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1 tvg-chno="721" tvg-id="TransWorldRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Trans_World_Radio_logo.png" group-title="Radio",Trans World Radio
 https://direct.sharp-stream.com/twruk.mp3
-#EXTINF:-1 tvg-chno="990" tvg-epg="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml",Chl Line-up
-https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
+#EXTINF:-1 tvg-chno="900" tvg-epg="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml",Chl Line-up
+https://github.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
 #EXTINF:-1 tvg-chno="951" tvg-id="BBCOneLondonHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="952" tvg-id="BBCOneNEHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One North East & Cumbria
