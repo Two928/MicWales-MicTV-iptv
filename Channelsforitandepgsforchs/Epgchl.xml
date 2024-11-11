@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv>
+  <channel id="990">
+    <display-name>Chl Line-up</display-name>
+    <icon
+src="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png"/>
+  </channel>
+
+  <!-- Ongoing Program -->
+  <programme start="20241110120000 +0000" stop="99991231235900 +0000" channel="990">
+    <title lang="en">Audio Channel</title>
+    <desc lang="en">Audio Channel Line-up</desc>
+    <category lang="en">Data</category>
+  </programme>
+
+</tv>
