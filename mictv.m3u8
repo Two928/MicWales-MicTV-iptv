@@ -54,7 +54,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-#EXTINF:-1 tvg-chno="140" tvg-id="" group-title="Lifestyle",BBC Food HD
+#EXTINF:-1 tvg-chno="140" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/d1d7e4acf760c480305c3976eb899de6bcbd2bfc/tvchannels-logos/bbc-food-logo.png" group-title="Lifestyle",BBC Food HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
