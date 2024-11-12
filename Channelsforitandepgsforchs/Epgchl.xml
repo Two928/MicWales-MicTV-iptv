@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <channel id="990">
     <display-name>Chl Line-up</display-name>
-    <icon
-src="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png"/>
+    <icon src="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" />
   </channel>
 
   <!-- Ongoing Program -->
@@ -12,5 +11,4 @@ src="https://experiencersinternational.github.io/tvsetup/staticch/information-bl
     <desc lang="en">Audio Channel Line-up</desc>
     <category lang="en">Data</category>
   </programme>
-
 </tv>
