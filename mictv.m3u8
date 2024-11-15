@@ -90,18 +90,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg HD
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-chno="508" tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional HD
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-chno="509" tvg-id="92NewsUK.uk" tvg-logo="https://i.imgur.com/nAldca2.png" group-title="News",92 News UK HD
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-chno="510" tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-chno="511" tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
-https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="512" tvg-id="AsharqNews.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/AsharqNews2020.png/revision/latest?cb=20221010150322",Asharq News (Arabic)
-https://news.sechls01.visionip.tv/live/visiontvuk-international-asharqnews-SD/playlist.m3u8
-#EXTINF:-1 tvg-chno="513" tvg-id="AlArabiya.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png/revision/latest?cb=20200509142618",Al Arabiya (Arabic)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="514" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-chno="599" tvg-id="",BBC RB 1
@@ -110,6 +98,22 @@ https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_bu
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="602" tvg-name="CBeebies" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbeebies-epg.png" tvg-id="CBeebies.uk" group-title="Kids",CBeebies
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno"603" tvg-name="QVC HD" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png" tvg-id="QVCUK.uk" group-title="Shop",QVC HD
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-chno"604" tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" group-title="Shop",TJC HD
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-chno"605" tvg-id="Cruise1stTV.uk" tvg-logo="https://i.imgur.com/L1bysJS.png" group-title="Shop;Travel",Cruise1st TV HD
+https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8
+#EXTINF:-1 tvg-chno"606" tvg-id="QVCBeauty.uk" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shop",QVC UK Beauty SD
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-chno"607" tvg-id="QVCExtra.uk" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="Shop",QVC UK Extra SD
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-chno"608" tvg-id="QVCStyle.uk" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC UK Style SD
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-chno"609" tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="Shop",Jewelery Maker HD
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno"610" tvg-id="IdealWorldTV.uk" tvg-logo="https://i.imgur.com/su6GH7i.png" group-title="Shop",Ideal World TV HD
+https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
 #EXTINF:-1 tvg-chno="900" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="901" tvg-id="BBCRadio1X.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio",BBC Radio 1Xtra
