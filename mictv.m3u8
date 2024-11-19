@@ -8,6 +8,8 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 tvg-chno="105" tgv-id="Channel5HD.uk",Channel 5 HD
+https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftv2-logo.png",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
@@ -32,7 +34,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="122" tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Documentary",Pluto TV Crime HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
-#EXTINF:-1 tvg-chno="128",5Star
+#EXTINF:-1 tvg-chno="128" tvg-id"5STAR.uk",5Star
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 #EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -58,6 +60,19 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-chno="140" tvg-id="" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/d1d7e4acf760c480305c3976eb899de6bcbd2bfc/tvchannels-logos/bbc-food-logo.png" group-title="Lifestyle",BBC Food HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-chno="141 tvg-id="5USA.uk",5USA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
+https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
+#EXTINF:-1 tvg-chno="150" tvg-id="5Action.uk",5Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
+https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
+#EXTINF:-1 tvg-chno="153" tvg-id"5SELECT.uk",5Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
+https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
+
 #EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 #EXTINF:-1 tvg-chno"314" tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's HD
