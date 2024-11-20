@@ -64,6 +64,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
+#EXTINF:-1 tvg-chno="144" tvg-id="QuestHD.uk",Quest HD
+https://dplus-sport-av-live.akamai.prod-live.h264.io/primary/live/hdntl=exp=1732171760~acl=/primary/live/*~data=hdntl~hmac=65d31926aa1dea661e4d00538d93dae2da7801024ed8d33f15cab7f8ee820000/use1/f93_CixmOWYwZjNhMC1mMGMzLTVmMzQtYjNjNi02ODBkOGFjNGNmNjEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoQEg5kcGx1cy1tcDQtY2VuYw/main.mpd?aws.manifestfilter=audio_codec:AACH;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1732171760~acl=/primary/live/use1/f93_CixmOWYwZjNhMC1mMGMzLTVmMzQtYjNjNi02ODBkOGFjNGNmNjEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoQEg5kcGx1cy1tcDQtY2VuYw/main.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACH%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=85b57af68c2cf572903035b5cac98534fb53c9af87da5379fb786fa8080c99b2
 #EXTINF:-1 tvg-chno="150" tvg-id="5Action.uk",5Action HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
