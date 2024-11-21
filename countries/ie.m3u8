@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/entertainment.ie.xml"
+#EXTM3U
 #EXTINF:-1 tvg-chno="101",RTÈ One HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
