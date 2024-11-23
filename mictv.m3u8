@@ -40,6 +40,8 @@ https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
+#EXTINF:-1 tvg-chno="132" tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories HD
+https://amg00426-littledotstudio-realstoriesnz-samsungnz-co09h.amagi.tv/playlist/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-chno="143",U&Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
