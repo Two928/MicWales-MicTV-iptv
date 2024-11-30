@@ -81,11 +81,15 @@ https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
-#EXTINF:-1 tvg-chno"314" tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's HD
+#EXTINF:-1 tvg-chno="301" tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61ss
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:-1 tvg-chno"302" tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's HD
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno"315" tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's HD
+#EXTINF:-1 tvg-chno"303" tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80's HD
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno"316" tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock HD
+#EXTINF:-1 tvg-chno"304" tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock HD
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url="https://img.freeviewplay.tv/s29eb33834630823375e6bb2f3c051823?w=160" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
