@@ -6,16 +6,24 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2075.png",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/Zf1rixF" group-title="Entertainment", STV HD
+https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" status="online",Channel 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-chno="105" tgv-id="Channel5HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4058.png",Channel 5 HD
 https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
+
+
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftv2-logo.png",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="VirginMediaThree.ie" group-title="Entertainment",Virgin Media Three HD 
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/abtvhd-logo.png" group-title="Not Online\killed",ABTV HD
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1731274393/ei/OdIwZ5vJHvmahcIPye-gqQ8/ip/185.106.134.46/id/CYhGhs0Ismk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-aigl6nz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAddHmVPgFLjzHgHykbnil-I2cKb3wCSeUpDnoKBtXXqTMNdDdPObP1zZuhk/vprv/1/playlist_type/DVR/initcwndbps/2508750/met/1731252793,/mh/nc/mm/44/mn/sn-aigl6nz7/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932/mt/1731252273/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgCkBPI4wn5Lpli1Kh3oyl7jCbHJMRR8NOyR27NrCifbUCIQDUvEOD82avFG6mTvtrrqt8MJ8-cMZzuIXCIpa5ArgbEA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRAIgLBSGcFskg9x6FAhiP7RjYpoJBUp3MU-9VhQMZ1m3EkMCIFcUOL-SnyIxdJ12XUJFtEPOmQn5t-sT--qc3LoKv8Qm/playlist/index.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-name="U&Dave" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3809.png" tvg-id="Dave.uk" group-title="Entertainment",U&Dave
@@ -26,8 +34,7 @@ https://live-uktv.simplestreamcdn.com/live11/uktvdave/bitrate1.isml/live.mpd
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-id="VirginMediaTwo.ie" group-title="Entertainment",Virgin Media Two HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="VirginMediaThree.ie" group-title="Entertainment",Virgin Media Three HD 
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+
 #EXTINF:-1 tvg-chno="115" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2080.png" tvg-id="BBCThree.uk" group-title="Entertainment",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="BBC Four HD" tvg-logo="https://img.freeviewplay.tv/s7c67877bee708839e14024e5209b3b27?w=160" tvg-id="BBCFour.uk" group-title="Documentary",BBC Four HD
@@ -81,6 +88,8 @@ https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8
 
 #EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="Entertainment",STV +1
+https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61ss
