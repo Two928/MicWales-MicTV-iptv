@@ -6,7 +6,7 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2075.png",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/Zf1rixF" group-title="Entertainment", STV HD
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/Zf1rixF" group-title="Entertainment",STV
 https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" status="online",Channel 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,8 +20,10 @@ https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/ind
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="VirginMediaThree.ie" group-title="Entertainment",Virgin Media Three HD 
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="AlphabetLoreTVHD.uk" group-title="Entertainment",82529
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/abtvhd-logo.png" group-title="Not Online\killed",ABTV HD
@@ -34,6 +36,8 @@ https://live-uktv.simplestreamcdn.com/live11/uktvdave/bitrate1.isml/live.mpd
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-id="VirginMediaTwo.ie" group-title="Entertainment",Virgin Media Two HD 
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="VirginMediaThree.ie" group-title="Entertainment",Virgin Media Three HD 
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2080.png" tvg-id="BBCThree.uk" group-title="Entertainment",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -49,7 +53,7 @@ https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
 https://live-uktv.simplestreamcdn.com/live13/uktvw/bitrate1.isml/live.mpd
-#EXTINF:-1 tvg-chno="132" tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories HD
+#EXTINF:-1 tvg-chno="133" tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/PG15QKA.png" group-title="Documentary",Real Stories HD
 https://amg00426-littledotstudio-realstoriesnz-samsungnz-co09h.amagi.tv/playlist/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-chno="143",U&Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,8 +90,7 @@ https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 
-#EXTINF:-1 tvg-chno="165" tvg-id="VirginMediaFour.ie" group-title="Entertainment",Virgin Media Four HD 
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="Entertainment",STV +1
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4 HD
