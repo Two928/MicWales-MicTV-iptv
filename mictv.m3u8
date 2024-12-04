@@ -107,12 +107,10 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62c
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-#EXTINF:-1 tvg-chno="508" tvg-id="AsharqNews.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/AsharqNews2020.png/revision/latest?cb=20221010150322",Asharq News HD
+#EXTINF:-1 tvg-chno="508" tvg-id="AriseNews.uk" tvg-logo="https://camo.githubusercontent.com/470357ab63eb4405a04b4a4fa3d09c14c9b231f6a21be86741bb29c8d5aa67d4/68747470733a2f2f692e696d6775722e636f6d2f423549584b49622e706e67",Arise News 
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
-#EXTINF:-1 tvg-chno="508" tvg-name="CNN International HD" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International HD
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="509" tvg-logo="https://camo.githubusercontent.com/ee1366d25e5770272e1533b2e44694625adbd5670605de9d7ecba42927fa33d5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39632f4575726f6e6577735f323032322e7376672f36343070782d4575726f6e6577735f323032322e7376672e706e67" tvg-id="EuronewsEnglish.fr" group-title="Wews",Euronews HD
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="899" tvg-id="",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
 
