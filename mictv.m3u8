@@ -105,7 +105,7 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url="https://img.freeviewplay.tv/s29eb33834630823375e6bb2f3c051823?w=160" group-title="News",BBC News HD
+#EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="502" tvg-name="BBC Parliament" tvg-logo="https://img.freeviewplay.tv/sbb7489afc6783de57f1f241d7b692b77?w=160" tvg-id="BBCParliament.uk" group-title="News",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
