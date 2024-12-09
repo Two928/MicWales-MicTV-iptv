@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
 
 #EXTINF:-1 tvg-chno="100" tvg-id="MicTVShowcaseHD.uk",MicTV Showcase HD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
