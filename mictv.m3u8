@@ -48,6 +48,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
 #EXTINF:-1 tvg-chno="128" tvg-id"5STAR.uk",5Star
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
+#EXTINF:-1 channel-id="GB60000197" tvg-id="GB60000197" tvg-chno="130" tvg-name="Sky Arts" tvg-logo="https://img.freeviewplay.tv/s19c73275c6a305730037829a088a81a6?w=160" group-title="Arts", Sky Arts
+https://jmp2.uk/sam-GB60000197.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="Entertainment",U&W
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44617665596573746572646179526561:554b5456444156455245414c4c595945
@@ -87,6 +89,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
 #EXTINF:-1 tvg-chno="144" tvg-id="QuestHD.uk",Quest HD
 https://dplus-sport-av-live.akamai.prod-live.h264.io/primary/live/hdntl=exp=1732171760~acl=/primary/live/*~data=hdntl~hmac=65d31926aa1dea661e4d00538d93dae2da7801024ed8d33f15cab7f8ee820000/use1/f93_CixmOWYwZjNhMC1mMGMzLTVmMzQtYjNjNi02ODBkOGFjNGNmNjEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoQEg5kcGx1cy1tcDQtY2VuYw/main.mpd?aws.manifestfilter=audio_codec:AACH;video_codec:h264;video_dynamic_range:sdr;video_height:1-1080&hdnts=exp=1732171760~acl=/primary/live/use1/f93_CixmOWYwZjNhMC1mMGMzLTVmMzQtYjNjNi02ODBkOGFjNGNmNjEtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoQEg5kcGx1cy1tcDQtY2VuYw/main.mpd%3Faws.manifestfilter%3Daudio_codec%3AAACH%3Bvideo_codec%3Ah264%3Bvideo_dynamic_range%3Asdr%3Bvideo_height%3A1-1080*~hmac=85b57af68c2cf572903035b5cac98534fb53c9af87da5379fb786fa8080c99b2
+#EXTINF:-1 channel-id="GBBD3100005RX" tvg-id="GBBD3100005RX" tvg-chno="145" tvg-name="Challenge" tvg-logo="https://img.freeviewplay.tv/s05114156db81b38338f02a0e57c20e5a?w=160" group-title="Entertainment", Challenge
+https://jmp2.uk/sam-GBBD3100005RX.m3u8
+#EXTINF:-1 tvg-id="GBBD1100007AC" tvg-chno="146" tvg-name="True Crime UK" tvg-logo="https://img.freeviewplay.tv/sc4459a3b5d18d2b7a88ff10b55471576?w=160" group-title="Crime",True Crime
+https://jmp2.uk/sam-GBBD1100007AC.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-id="5Action.uk",5Action HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
@@ -139,7 +145,10 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-chno="508" tvg-id="AriseNews.uk" tvg-logo="https://camo.githubusercontent.com/470357ab63eb4405a04b4a4fa3d09c14c9b231f6a21be86741bb29c8d5aa67d4/68747470733a2f2f692e696d6775722e636f6d2f423549584b49622e706e67",Arise News 
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
-
+#EXTINF:-1 channel-id="GBBD3600001NO" tvg-id="GBBD3600001NO" tvg-chno="509" tvg-name="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20231115T012330SQUARE.png_20231115012330.png" group-title="News", CNBC
+https://jmp2.uk/sam-GBBD3600001NO.m3u8
+#EXTINF:-1 channel-id="GBBD8000016N" tvg-id="GBBD8000016N" tvg-chno="510" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20241106T143041SQUARE.png" group-title="News", CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
 
 #EXTINF:-1 tvg-chno="899" tvg-id="",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
@@ -153,20 +162,25 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_h
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
 #EXTINF:-1 tvg-chno="605" tvg-id="Pop.uk" tvg-name="POP" tvg-logo="https://img.freeviewplay.tv/s97199a8d70db75f78506e35dd89d7af9?w=160" group-title="Kids",POP
 https://jmp2.uk/sam-GBBC430000128.m3u8
-
-#EXTINF:-1 tvg-chno="606" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
+#EXTINF:-1 channel-id="GB25000016G" tvg-id="GB25000016G" tvg-chno="606" tvg-name="POP Up" tvg-logo="https://img.freeviewplay.tv/s517a64e7cf893e469f51f355da08b38d?w=160" group-title="Kids", POP Up
+https://jmp2.uk/sam-GB25000016G.m3u8
+#EXTINF:-1 channel-id="GBBA3300030OP" tvg-id="GBBA3300030OP" tvg-chno="607" tvg-name="YAAAS!" tvg-logo="https://img.freeviewplay.tv/sda97192681b28ca3be4edddaa8c0cb08?w=160" group-title="Kids", YAAAS!
+https://jmp2.uk/sam-GBBA3300030OP.m3u8
+#EXTINF:-1 channel-id="GBBB2000004BQ" tvg-id="GBBB2000004BQ" tvg-chno="608" tvg-name="Ketchup TV" tvg-logo="https://img.freeviewplay.tv/sc1aa79ad2d77e9fab8cfbf91fb43f6ca?w=160" group-title="Kids", Ketchup TV
+https://jmp2.uk/sam-GBBB2000004BQ.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-chno="607" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
+#EXTINF:-1 tvg-chno="611" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
-#EXTINF:-1 tvg-chno="608" tvg-id="QVCExtra.uk" group-title="Shopping",QVC Extra HD
+#EXTINF:-1 tvg-chno="612" tvg-id="QVCExtra.uk" group-title="Shopping",QVC Extra HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 tvg-chno="609" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style HD
+#EXTINF:-1 tvg-chno="613" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
-#EXTINF:-1 tvg-chno="610" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
+#EXTINF:-1 tvg-chno="614" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
 https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="611" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
+#EXTINF:-1 tvg-chno="615" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="612" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
+#EXTINF:-1 tvg-chno="616" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
 #EXTINF:-1 tvg-chno="900" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
