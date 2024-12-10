@@ -92,7 +92,7 @@ https://dplus-sport-av-live.akamai.prod-live.h264.io/primary/live/hdntl=exp=1732
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
 
-#EXTINF:-1 tvg-chno="151" tvg-id="SkyMix.uk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="Drama", Sky Mix
+#EXTINF:-1 tvg-chno="151" tvg-id="SkyMix.uk" tvg-logo="https://img.freeviewplay.tv/se57884d8963b498965e53fd373eed266?w=160" group-title="Drama", Sky Mix
 https://jmp2.uk/sam-GBBD3100006XM.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-id"5SELECT.uk",5Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -104,8 +104,9 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 http://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="Entertainment",STV +1
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
-#EXTINF:-1 tvg-chno="219" tvg-name="GREAT! Christmas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20241106T143047SQUARE.png" group-title="Movies", GREAT! Christmas
+#EXTINF:-1 tvg-chno="219" tvg-name="GREAT! Christmas" tvg-logo="https://img.freeviewplay.tv/s35a37263460d9363da733a88acbf7436?w=160" group-title="Movies", GREAT! Christmas
 https://jmp2.uk/sam-GBBC900007Q5.m3u8
+
 
 #EXTINF:-1 tvg-chno"350" tvg-id="FTVMusicHD.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftvmusichd-logo.png" group-title="Music",FTV Music HD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
@@ -122,12 +123,12 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="502" tvg-name="BBC Parliament" tvg-logo="https://img.freeviewplay.tv/sbb7489afc6783de57f1f241d7b692b77?w=160" tvg-id="BBCParliament.uk" group-title="News",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-chno="503" tvg-id="SkyNews.yt" tvg-logo="https://img.freeviewplay.tv/s98e69fc1fbe3c48dd0b362def3152c41?w=160" tvg-name="Sky News" group-title="News", Sky News
+#EXTINF:-1 tvg-chno="503" tvg-id="SkyNews.yt" tvg-logo="https://img.freeviewplay.tv/s98e69fc1fbe3c48dd0b362def3152c41?w=160" tvg-name="Sky News" group-title="News",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-chno="504" tvg-id="GBNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1196.png" group-title="News",GB News HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-chno="505" tvg-id="TalkTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1078.png" group-title="News",Talk
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 tvg-chno="505" tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1078.png" group-title="News",TalkTV
+https://jmp2.uk/sam-GBBB1000002VQ.m3u8
 #EXTINF:-1 tvg-chno="506" tvg-id="BloombergTVEuropeHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="Business",Bloomberg TV HD
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="507" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
@@ -140,14 +141,15 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
 
 
-#EXTINF:-1 tvg-chno="601" tvg-name="CBBC HD" tvg-logo="https://img.freeviewplay.tv/s5739dea12064609620f1046b5b721519?w=160" tvg-id="CBBC.uk" group-title="Kids",CBBC HD
+#EXTINF:-1 tvg-chno="602" tvg-name="CBBC HD" tvg-logo="https://img.freeviewplay.tv/s5739dea12064609620f1046b5b721519?w=160" tvg-id="CBBC.uk" group-title="Kids",CBBC HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="602" tvg-name="CBeebies HD" tvg-logo="https://img.freeviewplay.tv/sde3e9d5fd97779cb485bb2feb6f71d17?w=160" tvg-id="CBeebies.uk" group-title="Kids",CBeebies HD
+#EXTINF:-1 tvg-chno="603" tvg-name="CBeebies HD" tvg-logo="https://img.freeviewplay.tv/sde3e9d5fd97779cb485bb2feb6f71d17?w=160" tvg-id="CBeebies.uk" group-title="Kids",CBeebies HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="Pop.uk" tvg-chno="603" tvg-name="POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20241106T142942SQUARE.png" group-title="Kids", POP
+#EXTINF:-1 tvg-chno="604" tvg-id="TinyPOP.uk" tvg-name="Tiny POP" tvg-logo="https://img.freeviewplay.tv/s7f3563085be5b93c82e66cffbd40c103?w=160" group-title="Kids", Tiny POP
+https://jmp2.uk/sam-GBBD3200003T6.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-id="Pop.uk" tvg-name="POP" tvg-logo="https://img.freeviewplay.tv/s97199a8d70db75f78506e35dd89d7af9?w=160" group-title="Kids",POP
 https://jmp2.uk/sam-GBBC430000128.m3u8
-#EXTINF:-1 tvg-chnn="605" tvg-name="Pop Max HD" tvg-logo="https://img.freeviewplay.tv/s1cccc4568d572029aecdef38da7b1eee?w=160" tvg-id="PopMax.uk" group-title="Kids",Pop Max HD RIP
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+
 #EXTINF:-1 tvg-chno="606" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 #EXTINF:-1 tvg-chno="607" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
