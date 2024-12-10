@@ -16,11 +16,11 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
 
 
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftv2-logo.png",FTV 2 HD (not working)
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2HD-Logo.png",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="AlphabetLoreTVHD.uk" group-title="Entertainment",82529
+#EXTINF:-1 tvg-chno="109" tvg-id="AlphabetLoreTVHD.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVHD-Logo.png" group-title="Entertainment",82529
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 
 
@@ -104,7 +104,9 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 http://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="+1",STV +1
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
-#EXTINF:-1 tvg-chno="209" tvg-id="AlphabetLoreTVPlus1.uk" group-title="+1",82530
+#EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2Plus1-Logo.png" group-title="+1",FTV 2 HD (not working)
+https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="AlphabetLoreTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVPlus1-Logo.png" group-title="+1",82530
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-chno="319" tvg-name="GREAT! Christmas" tvg-logo="https://img.freeviewplay.tv/s35a37263460d9363da733a88acbf7436?w=160" group-title="Movies", GREAT! Christmas
 https://jmp2.uk/sam-GBBC900007Q5.m3u8
