@@ -2,20 +2,21 @@
 
 #EXTINF:-1 tvg-chno="100" tvg-id="MicTVShowcaseHD.uk",MicTV Showcase HD
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3017.png" group-title="Entertainment",BBC One Yk&Li HD
+#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://img.freeviewplay.tv/sff8c5dd4f170316b6c0ae31fb90eee19?w=160" group-title="Entertainment",BBC One Yk&Li HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-chno="102" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2075.png",BBC Two HD
+#EXTINF:-1 tvg-chno="102" tvg-logo="https://img.freeviewplay.tv/s33e5dc6d40b2bfa3249cd9b8327604e4?w=160" group-title="Entertainment",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/Zf1rixF" group-title="Entertainment",STV
 https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" status="online",Channel 4 HD
+#EXTINF:-1 tvg-chno="104" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" group-title="Entertainment",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 tvg-chno="105" tgv-id="Channel5HD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4058.png",Channel 5 HD
+#EXTINF:-1 tvg-chno="105" tgv-id="Channel5HD.uk" tvg-logo="https://img.freeviewplay.tv/s21a537f7d48d3a4fec1c157491ac7874?w=160" group-title="Entertainment",Channel 5
 https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
 
-
+#EXTINF:-1 tvg-chno="106" tvg-id="FTVHD.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTVHD-Logo.png" group-title="Entertainment",FTV HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2HD-Logo.png",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
@@ -110,7 +111,16 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 http://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="+1",STV +1
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2Plus1-Logo.png" group-title="+1",FTV 2 HD (not working)
+#EXTINF:-1 tvg-chno="204" tvg-id="Channel4Plus1.uk" tvg-logo="https://img.freeviewplay.tv/sb51df885e8c3d131055d80c2e1117d83?w=160" group-title="+1",Channel 4 +1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 tvg-chno="205" tgv-id="Channel5Plus1.uk" tvg-logo="https://img.freeviewplay.tv/s418ae2c068fadc37b8cc6cfc2680b83d?w=160" group-title="+1",Channel 5 +1
+https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/index.mpd
+
+#EXTINF:-1 tvg-chno="206" tvg-id="FTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTVPlus1-Logo.png" group-title="+1",FTV +1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2Plus1-Logo.png" group-title="+1",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="AlphabetLoreTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVPlus1-Logo.png" group-title="+1",82530
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
