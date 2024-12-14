@@ -203,11 +203,11 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_t
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/master.norewind.m3u8
 #EXTINF:-1 tvg-chno="905" tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="Radio",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-chno="906" tvg-id="ClassicFM.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/1024px-Classic_FM_logo.svg.png" group-title="Radio",Classic FM
+#EXTINF:-1 tvg-chno="906" tvg-id="ClassicFM.uk" tvg-logo="https://img.freeviewplay.tv/s80ca77a9de2c1632b99dedb650ae50cf?w=160" group-title="Radio",Classic FM
 http://media-ice.musicradio.com/ClassicFMMP3
-#EXTINF:-1 tvg-chno="907" tvg-id="CapitalFM.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Capital_2022.svg/1024px-Capital_2022.svg.png" group-title="Radio",Capital
+#EXTINF:-1 tvg-chno="907" tvg-id="CapitalFM.uk" tvg-logo="https://img.freeviewplay.tv/s4e1378b6dc638d51ea3136d42896a7ba?w=160" group-title="Radio",Capital
 http://media-ice.musicradio.com/CapitalUKMP3
-#EXTINF:-1 tvg-chno="908" tvg-id="HeartRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1024px-The_Heart_Network_logo.svg.png" group-title="Radio",Heart Radio
+#EXTINF:-1 tvg-chno="908" tvg-id="HeartRadio.uk" tvg-logo="https://img.freeviewplay.tv/s0847124c6e9a86996b230938605f8a43?w=160" group-title="Radio",Heart Radio
 http://media-ice.musicradio.com/HeartUKMP3
 #EXTINF:-1 tvg-chno="909" tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" group-title="Radio",BBC World Service 
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
@@ -215,11 +215,11 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-chno="911" tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" group-title="Radio",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-chno="912" tvg-id="TransWorldRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Trans_World_Radio_logo.png" group-title="Radio",Trans World Radio
+#EXTINF:-1 tvg-chno="912" tvg-id="TransWorldRadio.uk" tvg-logo="https://img.freeviewplay.tv/s3e80c8b2278740e1d218f05f37f62523?w=160" group-title="Radio",Trans World Radio
 https://direct.sharp-stream.com/twruk.mp3
-#EXTINF:-1 tvg-chno="913" tvg-id="LBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/LBC_Radio.png" group-title="Radio",LBC
+#EXTINF:-1 tvg-chno="913" tvg-id="LBC.uk" tvg-logo="https://img.freeviewplay.tv/se644aaf1a4c709983a24b48603fffa08?w=160" group-title="Radio",LBC
 http://media-ice.musicradio.com/LBCUKMP3
-#EXTINF:-1 tvg-chno="914" tvg-id="SmoothRadio.uk" tvg-logo="https://www.smoothradio.com/assets_v4r/dist/combined/img/smooth-logo_desktop.png" group-title="Radio",Smooth Radio
+#EXTINF:-1 tvg-chno="914" tvg-id="SmoothRadio.uk" tvg-logo="https://img.freeviewplay.tv/s5c208a1867ce484b4392d5a7df6dbf06?w=160" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
 
 
