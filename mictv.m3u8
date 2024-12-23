@@ -19,7 +19,7 @@ https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/ind
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2HD-Logo.png",FTV 2 HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in HD (not working)
+#EXTINF:-1 tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/InHD-Logo.png",in HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="AlphabetLoreTVHD.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVHD-Logo.png" group-title="Entertainment",82529
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
@@ -121,6 +121,8 @@ https://akadashlive-c5.akamaized.net/out/v1/07646f4532504e45a2a8647f59372d1c/ind
 #EXTINF:-1 tvg-chno="206" tvg-id="FTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTVPlus1-Logo.png" group-title="+1",FTV +1
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/FTV2Plus1-Logo.png" group-title="+1",FTV 2 HD (not working)
+https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/InPlus1-Logo.png",in +1 (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="AlphabetLoreTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVPlus1-Logo.png" group-title="+1",82530
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
