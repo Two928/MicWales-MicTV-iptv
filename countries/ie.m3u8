@@ -7,16 +7,15 @@ https://live.rte.ie/live/a/channel1/channel1.isml/channel1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
-#EXTINF:-1 tvg-chno="103" tvg-id="VirginMediaOne.ie" group-title="Entertainment",Virgin Media One HD 
+#EXTINF:-1 tvg-chno="103" tvg-id="VirginMediaOne.ie" group-title="Entertainment",Virgin Media One HD (not working)
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="VirginMediaTwo.ie" group-title="Entertainment",Virgin Media Two HD 
+#EXTINF:-1 tvg-chno="105" tvg-id="VirginMediaTwo.ie" group-title="Entertainment",Virgin Media Two HD (not working)
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftv2-logo.png",FTV 2 Ireland HD (not working)
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://i.imgur.com/G5VbyWT.png",in Ireland HD (not working)
-https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
+
 #EXTINF:-1 tvg-chno="501",RTÈ News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
