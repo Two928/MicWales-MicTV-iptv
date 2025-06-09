@@ -12,12 +12,19 @@ https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 tvg-chno="105" tvg-id="Channel5.uk",Channel 5
+https://x.canlitvapp.com/u-channel-5/index.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="ChannelS.uk",Channel S (576p) [Not 24/7]
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2080.png" tvg-id="BBCThree.uk" group-title="Entertainment",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="BBC Four HD" tvg-logo="https://img.freeviewplay.tv/s7c67877bee708839e14024e5209b3b27?w=160" tvg-id="BBCFour.uk" group-title="Documentary",BBC Four HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
+#EXTINF:-1 tvg-chno="118" group-title="Entertainment",ITV 2 HD
+https://x.canlitvapp.com/u-itv2/index.m3u8
+#EXTINF:-1 tvg-chno="119" group-title="Entertainment",ITV 3 HD
+https://x.canlitvapp.com/u-itv3/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Documentary",Pluto TV Crime HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
 #EXTINF:-1 tvg-chno="128" tvg-logo="https://img.freeviewplay.tv/s7d42122b5eefb317ce3c856a12c8cc58?w=160" tvg-id"5STAR.uk",5Star
@@ -99,8 +106,13 @@ https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d668
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-id="AlphabetLoreTVPlus1.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/AlphabetLoreTVPlus1-Logo.png" group-title="+1",82530
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 tvg-chno="319" tvg-name="GREAT! Christmas" tvg-logo="https://img.freeviewplay.tv/s35a37263460d9363da733a88acbf7436?w=160" group-title="Movies", GREAT! Christmas
-https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1 tvg-chno="319" tvg-id="GREATromance.uk",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="320" tvg-id="GREATmovies.uk",GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="321" tvg-id="GREATmystery.uk@SD",GREAT! Mystery (1080p)
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-chno"350" tvg-id="FTVMusicHD.uk" tvg-logo="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/tvchannels-logos/ftvmusichd-logo.png" group-title="Music",FTV Music HD
@@ -145,8 +157,12 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="TinyPOP.uk" tvg-name="Tiny POP" tvg-logo="https://img.freeviewplay.tv/s7f3563085be5b93c82e66cffbd40c103?w=160" group-title="Kids", Tiny POP
 https://jmp2.uk/sam-GBBD3200003T6.m3u8
-#EXTINF:-1 tvg-chno="605" tvg-id="Pop.uk" tvg-name="POP" tvg-logo="https://img.freeviewplay.tv/s97199a8d70db75f78506e35dd89d7af9?w=160" group-title="Kids",POP
+#EXTINF:-1 tvg-chno="997" tvg-id="Pop.uk",Pop (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="998" tvg-id="Pop.uk",Pop (1080p)
 https://jmp2.uk/sam-GBBC430000128.m3u8
+#EXTINF:-1 tvg-chno="999" tvg-id="Pop.uk",Pop (1080p)
+https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-pop-live-amagi/playlist.m3u8
 #EXTINF:-1 channel-id="GB25000016G" tvg-id="GB25000016G" tvg-chno="606" tvg-name="POP Up" tvg-logo="https://img.freeviewplay.tv/s517a64e7cf893e469f51f355da08b38d?w=160" group-title="Kids", POP Up
 https://jmp2.uk/sam-GB25000016G.m3u8
 #EXTINF:-1 channel-id="GBBA3300030OP" tvg-id="GBBA3300030OP" tvg-chno="607" tvg-name="YAAAS!" tvg-logo="https://img.freeviewplay.tv/sda97192681b28ca3be4edddaa8c0cb08?w=160" group-title="Kids", YAAAS!
