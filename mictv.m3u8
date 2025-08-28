@@ -56,7 +56,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
 
-#EXTINF:-1 tvg-chno="150" tvg=logo="https://img.freeviewplay.tv/s279c94e67ee87fe30fd9e82c1427a377?w=160" tvg-id="5Action.uk",5Action HD
+#EXTINF:-1 tvg-chno="150" tvg-name="5Action" tvg=logo="https://img.freeviewplay.tv/s279c94e67ee87fe30fd9e82c1427a377?w=160" tvg-id="5Action.uk",5Action HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dc24fb57d8d4ff28efa22ed984568ac":"3548e7c2f13627c3f6925dd818cfc5a2","9d7c1018ebb967a000e26b4911807b19":"3548e7c2f13627c3f6925dd818cfc5a2"}
 https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e2c0/index.mpd
@@ -65,9 +65,13 @@ https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
+#EXTINF:-1 tvg-chno="164" group-title="Entertainment",Blaze
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+
 #EXTINF:-1 tvg-chno="169" tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="Scotland",BBC Alba HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-chno="180" tvg-id="BBCScotlandHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1138.png" group-title="Scotland",BBC Scotland HD
+
+#EXTINF:-1 tvg-chno="187" tvg-id="BBCScotlandHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1138.png" group-title="Scotland",BBC Scotland HD
 http://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://i.imgur.com/XeSaypp" tvg-id="STVPlus1.uk" group-title="+1",STV +1
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
@@ -240,6 +244,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
 
