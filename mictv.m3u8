@@ -21,6 +21,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1 tvg-chno="119" group-title="Entertainment",ITV 3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-chno="120" group-title="Entertainment",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-chno="122" tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png" group-title="Documentary",Pluto TV Crime HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
 #EXTINF:-1 tvg-chno="128" tvg-logo="https://img.freeviewplay.tv/s7d42122b5eefb317ce3c856a12c8cc58?w=160" tvg-id"5STAR.uk",5Star
@@ -238,5 +240,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
