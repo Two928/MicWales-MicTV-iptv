@@ -5,7 +5,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://img.freeviewplay.tv/s33e5dc6d40b2bfa3249cd9b8327604e4?w=160" group-title="Entertainment",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://i.imgur.com/Zf1rixF" group-title="Entertainment",STV or itv whyyyyyyyyyyy
-https://stvedi.akamaized.net/out/v1/4ee4f54816e340888cbd8b99b5b3562f/index.m3u8
+http://31.132.0.66:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-id="Channel4.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" group-title="Entertainment",Channel 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
@@ -244,6 +244,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
 
