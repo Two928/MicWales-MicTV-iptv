@@ -10,7 +10,7 @@ http://31.132.0.66:8000/play/a097/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:-1 tvg-chno="105" tvg-id="Channel5.uk",Channel 5
+#EXTINF:-1 tvg-chno="105" tvg-id="5.uk",5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
 #EXTINF:-1 tvg-chno="115" tvg-name="BBC Three HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2080.png" tvg-id="BBCThree.uk" group-title="Entertainment",BBC Three HD
@@ -239,6 +239,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
 
