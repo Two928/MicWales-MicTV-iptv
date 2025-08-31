@@ -17,16 +17,16 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="BBC Four HD" tvg-logo="https://img.freeviewplay.tv/s7c67877bee708839e14024e5209b3b27?w=160" tvg-id="BBCFour.uk" group-title="Documentary",BBC Four HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="ITV2.uk" tvg-logo"https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/itv2-epg.png" group-title="Entertainment",ITV 2
+#EXTINF:-1 tvg-chno="118" tvg-id="ITV2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv2-epg.png" group-title="Entertainment",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="ITV3.uk" tvg-logo"https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/itv3-epg.png" group-title="Entertainment",ITV 3
+#EXTINF:-1 tvg-chno="119" tvg-id="ITV3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv3-epg.png" group-title="Entertainment",ITV 3
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-chno="120" tvg-id="ITV4.uk" tvg-logo"https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV 4
+#EXTINF:-1 tvg-chno="120" tvg-id="ITV4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-chno="128" tvg-logo="https://img.freeviewplay.tv/s7d42122b5eefb317ce3c856a12c8cc58?w=160" tvg-id"5STAR.uk",5Star
 https://akadashlive-5star.akamaized.net/out/v1/c7150fa2d717466cae6740c9b75e0973/index.mpd
 
-#EXTINF:-1 tvg-chno="134" tvg-id="S4C.uk" tvg-logo="https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/s4c-epg.png" group-title="Undefined",S4C HD
+#EXTINF:-1 tvg-chno="134" tvg-id="S4C.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/s4c-epg.png" group-title="Undefined",S4C HD
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 
 
@@ -46,7 +46,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-chno="138" tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/640px-E4_Extra_logo_2022.svg.png" tvg-id="E4Extra.uk" group-title="UK",E4 Extra
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4e)/manifest.mpd
 
-#EXTINF:-1 tvg-chno="141" tvg-logo="https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/5usa-epg.png" tvg-id="5USA.uk",5USA HD
+#EXTINF:-1 tvg-chno="141" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/5usa-epg.png" tvg-id="5USA.uk",5USA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d324328db27144cda7778a7d73291fe1":"d2d920c82567f65aba98a6b7fb03dae3","47e07890e1e3c53c12f4ff6b843dc1ae":"d2d920c82567f65aba98a6b7fb03dae3"}
 https://akadashlive-5usa.akamaized.net/out/v1/5fd4d85d778f431985cfa11190826777/index.mpd
@@ -60,10 +60,10 @@ https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
-#EXTINF:-1 tvg-chno="164" tvg-logo"https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/itv2-epg.png" group-title="Entertainment",Blaze
+#EXTINF:-1 tvg-chno="164" group-title="Entertainment",Blaze
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 
-#EXTINF:-1 tvg-chno="169" tvg-id="BBCAlba.uk" tvg-logo="https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/bbcalba-epg.png" group-title="Scotland",BBC Alba HD
+#EXTINF:-1 tvg-chno="169" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" group-title="Scotland",BBC Alba HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-chno="187" tvg-id="BBCScotlandHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1138.png" group-title="Scotland",BBC Scotland HD
@@ -95,7 +95,7 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-url=" https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/bbcnews-epg.png" group-title="News",BBC News HD
+#EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-chno="502" tvg-name="BBC Parliament" tvg-logo="https://img.freeviewplay.tv/sbb7489afc6783de57f1f241d7b692b77?w=160" tvg-id="BBCParliament.uk" group-title="News",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
@@ -107,7 +107,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://jmp2.uk/sam-GBBB1000002VQ.m3u8
 #EXTINF:-1 tvg-chno="506" tvg-id="BloombergTVEuropeHD.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="Business",Bloomberg TV HD
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-chno="507" tvg-id="WION.in" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/wion-epg.png",WION
+#EXTINF:-1 tvg-chno="507" tvg-id="WION.in" tvg-logo"",WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-chno="508" tvg-id="AriseNews.uk" tvg-logo="https://camo.githubusercontent.com/470357ab63eb4405a04b4a4fa3d09c14c9b231f6a21be86741bb29c8d5aa67d4/68747470733a2f2f692e696d6775722e636f6d2f423549584b49622e706e67",Arise News 
 https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
@@ -137,7 +137,7 @@ https://jmp2.uk/sam-GB25000016G.m3u8
 
 #EXTINF:-1 tvg-chno="610" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-chno="611" tvg-logo"https://github.com/ExperiencersInternational/tvsetup/blob/main/tvg-ico/qvcb-epg.png" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvcb-epg.png" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
 #EXTINF:-1 tvg-chno="612" tvg-id="QVCExtra.uk" group-title="Shopping",QVC Extra HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
@@ -239,6 +239,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
 
