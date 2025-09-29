@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz,https://epg.aiir.net/radiodns/spi/3.1/id/rdns.aiir.net/s6119/20250929_PI.xml,https://epg.aiir.net/radiodns/spi/3.1/SI.xml"
 
 #EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://img.freeviewplay.tv/sff8c5dd4f170316b6c0ae31fb90eee19?w=160" group-title="Entertainment",BBC One Yk&Li HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
@@ -179,6 +179,9 @@ http://media-ice.musicradio.com/LBCUKMP3
 #EXTINF:-1 tvg-chno="914" tvg-id="SmoothRadio.uk" tvg-logo="https://img.freeviewplay.tv/s5c208a1867ce484b4392d5a7df6dbf06?w=160" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
 
+#EXTINF:-1 tvg-chno="915" tvg-id="LincsSound.UK",Lincs Sound
+https://stream.aiir.com/8dprqqdsdskuv
+
 
 #EXTINF:-1 tvg-chno="915" tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="Radio",BBC Radio 5 Sports Extra
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
@@ -199,7 +202,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_shetland.m3u8
 #EXTINF:-1 tvg-chno="922" tvg-id="BBCRadio1X.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio",BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/master.norewind.m3u8
-#EXTINF:-1 tvg-chno="950" tvg-epg="https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml",Chl Line-up
+#EXTINF:-1 tvg-chno="950",Chl Line-up
 https://github.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
 #EXTINF:-1 tvg-chno="951" tvg-id="BBCOneLondonHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.m3u8
@@ -239,6 +242,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="970" tvg-id="" tvg-logo="" group-title="Undefined",BBC Red Button One 
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+
 
 
 
