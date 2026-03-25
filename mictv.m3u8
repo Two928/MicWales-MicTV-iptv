@@ -58,11 +58,25 @@ https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb
 #EXTINF:-1 channel-id="samsung-INBA5100030AO" tvg-id="INBA5100030AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20220427T054551SQUARE.png_20220427054552.png" group-title="Entertainment" tvg-chno="120",FailArmy
 https://jmp2.uk/stvp-INBA5100030AO
 
+#EXTINF:-1 channel-id="samsung-GBBD1100007AC" tvg-id="GBBD1100007AC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png" group-title="Crime" tvg-chno="121",True Crime UK
+https://jmp2.uk/stvp-GBBD1100007AC
 
-#EXTINF:-1 tvg-chno="121" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" group-title="Scotland",BBC Alba HD
+#EXTINF:-1 channel-id="samsung-IN3900022KR" tvg-id="IN3900022KR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900022KR_20260225T010326SQUARE.png" group-title="Entertainment" tvg-chno="123",Mark Rober TV
+https://jmp2.uk/stvp-IN3900022KR
+
+#EXTINF:-1 channel-id="samsung-INBA5100029JI" tvg-id="INBA5100029JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20220427T054705SQUARE.png_20220427054706.png" group-title="Entertainment" tvg-chno="124",The Pet Collective
+https://jmp2.uk/stvp-INBA5100029JI
+
+#EXTINF:-1 channel-id="samsung-GBBD1100003I0" tvg-id="GBBD1100003I0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100003I0_20250107T030715SQUARE.png" group-title="Entertainment" tvg-chno="125",Love Pets
+https://jmp2.uk/stvp-GBBD1100003I0
+
+#EXTINF:-1 channel-id="samsung-GBBD3100003J5" tvg-id="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" group-title="Entertainment" tvg-chno="126",U&Laughs
+https://jmp2.uk/stvp-GBBD3100003J5
+
+#EXTINF:-1 tvg-chno="127" tvg-id="BBCAlba.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcalba-epg.png" group-title="Scotland",BBC Alba HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-chno="122" tvg-id="BBCScotland.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1138.png" group-title="Scotland",BBC Scotland
+#EXTINF:-1 tvg-chno="128" tvg-id="BBCScotland.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1138.png" group-title="Scotland",BBC Scotland
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
 
 
