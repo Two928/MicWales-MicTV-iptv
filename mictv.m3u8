@@ -7,7 +7,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-chno="103" tvg-id="STVCentral.uk" tvg-logo="https://img.freeviewplay.tv/s25bea89f0a2f112e9ce42503ccd5a5f7?w=160" group-title="Entertainment",STV HD
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="Channel 4 London HD" tvg-id="Channel4London.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" group-title="Entertainment",Channel 4 HD
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-chno="105" tvg-id="5.uk",5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
