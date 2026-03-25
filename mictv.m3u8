@@ -67,7 +67,49 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotl
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-chno="302" tvg-logo="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709?w=160" tvg-id="GREATmovies.uk",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20260120T031419SQUARE.png" group-title="Movies" tvg-chno="303",GREAT! Mystery
+https://jmp2.uk/stvp-GB3000370X
 
+#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20250107T030813SQUARE.png" group-title="Music" tvg-chno="304",Trace UK
+https://jmp2.uk/stvp-GBBD19000026B
+#EXTINF:-1 channel-id="samsung-GBBC900001SC" tvg-id="GBBC900001SC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" group-title="Music" tvg-chno="305",Trace Urban
+https://jmp2.uk/stvp-GBBC900001SC
+#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20260303T094208SQUARE.png" group-title="Music" tvg-chno="306",Vevo '90s
+https://jmp2.uk/stvp-USBD3000133M
+#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20260303T094205SQUARE.png" group-title="Music" tvg-chno="307",Vevo '80s
+https://jmp2.uk/stvp-USBD300012YC
+#EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png" group-title="Music" tvg-chno="308",XITE Hits
+https://jmp2.uk/stvp-GBBB3800005QO
+
+#EXTINF:-1 channel-id="samsung-GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music" tvg-chno="310",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 channel-id="samsung-GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music" tvg-chno="311",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20260303T094232SQUARE.png" group-title="Music" tvg-chno="312",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+#EXTINF:-1 channel-id="samsung-CABC52000165E" tvg-id="CABC52000165E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20260303T094846SQUARE.png" group-title="Music" tvg-chno="313",Vevo Country
+https://jmp2.uk/stvp-CABC52000165E
+#EXTINF:-1 channel-id="samsung-GB300032DX" tvg-id="GB300032DX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20250218T040923SQUARE.png" group-title="Music" tvg-chno="314",Now 70's
+https://jmp2.uk/stvp-GB300032DX
+#EXTINF:-1 channel-id="samsung-GBBC900003B2" tvg-id="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" group-title="Music" tvg-chno="315",Now 80s
+https://jmp2.uk/stvp-GBBC900003B2
+#EXTINF:-1 channel-id="samsung-GB300033HI" tvg-id="GB300033HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music" tvg-chno="316",Now 90's & 00's
+https://jmp2.uk/stvp-GB300033HI
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20260303T094211SQUARE.png" group-title="Music" tvg-chno="317",Vevo 2010s
+https://jmp2.uk/stvp-USBD120002431
+#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Music" tvg-chno="318",Vevo Latino
+https://jmp2.uk/stvp-USBC3600015GF
+#EXTINF:-1 channel-id="samsung-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20260303T094219SQUARE.png" group-title="Music" tvg-chno="319",Vevo Hip-Hop
+https://jmp2.uk/stvp-USBC3600002EK
+#EXTINF:-1 channel-id="samsung-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20260303T094228SQUARE.png" group-title="Music" tvg-chno="320",Vevo R&B
+https://jmp2.uk/stvp-USBC3900009K5
+#EXTINF:-1 channel-id="samsung-GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music" tvg-chno="321",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 channel-id="samsung-GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music" tvg-chno="322",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+
+#EXTINF:-1 channel-id="samsung-CHBA22000080G" tvg-id="CHBA22000080G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA22000080G_20251125T102207SQUARE.png" group-title="Sport" tvg-chno="406",Tennis Channel
+https://jmp2.uk/stvp-CHBA22000080G
 
 #EXTINF:-1 tvg-chno="501" tvg-id="BBCNews.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News",BBC News HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -81,7 +123,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="506" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
-#EXTINF:-1 tvg-chno="507" tvg-logo="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640?w=160" tvg-id"TBNUK.uk",TBN UK
+#EXTINF:-1 channel-id="samsung-CHBD800001D0" tvg-id="CHBD800001D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800001D0_20251125T102223SQUARE.png" group-title="News" tvg-chno="507",CNN
+https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 channel-id="samsung-ATBD1100002TA" tvg-id="ATBD1100002TA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="News" tvg-chno="508",FRANCE 24 FAST
+https://jmp2.uk/stvp-ATBD1100002TA
+logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20260317T034210SQUARE.png" group-title="News" tvg-chno="509",CNBC
+https://jmp2.uk/stvp-GBBD3600001NO
+#EXTINF:-1 tvg-chno="510" tvg-logo="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640?w=160" tvg-id"TBNUK.uk",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 
 
