@@ -7,8 +7,6 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-chno="103" tvg-id="STVCentral.uk" tvg-logo="https://img.freeviewplay.tv/s25bea89f0a2f112e9ce42503ccd5a5f7?w=160" group-title="Entertainment",STV HD
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="Channel 4 London HD" tvg-id="Channel4London.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" group-title="Entertainment",Channel 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-chno="105" tvg-id="5.uk",5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
@@ -103,21 +101,15 @@ https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/pl
 
 
 
-#EXTINF:-1 tvg-chno="610" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
+#EXTINF:-1 tvg-chno="606" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvcb-epg.png" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvcb-epg.png" tvg-id="QVCBeautyUK.uk" group-title="Shopping",QVC Beauty HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
-#EXTINF:-1 tvg-chno="612" tvg-id="QVCExtra.uk" group-title="Shopping",QVC Extra HD
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 tvg-chno="613" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style HD
+#EXTINF:-1 tvg-chno="608" tvg-id="QVCStyleUK.uk" group-title="Shopping",QVC Style HD
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
-#EXTINF:-1 tvg-chno="614" tvg-id="GemsTV.uk" group-title="Shopping",Gems TV
-https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="615" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="616" tvg-id="HobbyMaker.uk" group-title="Shopping",Hobby Maker HD
+#EXTINF:-1 tvg-chno="609" tvg-id="HobbyMaker.uk" group-title="Shopping",Hobby Maker HD
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="617" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
+#EXTINF:-1 tvg-chno="610" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
 #EXTINF:-1 tvg-chno="899" tvg-id="BBCRedButton1.uk",BBC RB 1
