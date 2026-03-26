@@ -259,7 +259,7 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 tvg-chno="0116" tvg-id="BBCRadioFoyle.uk",BBC Radio Foyle
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_foyle.mpd
 
-#EXTINF:-1 tvg-chno="0117" tvg-id="LincsSound.UK" group-title="Radio",Lincs Sound
+#EXTINF:-1 tvg-chno="0117" channel-id="crid://epg.aiir.net/programmes/47020" tvg-id="crid://epg.aiir.net/programmes/47020" group-title="Radio",Lincs Sound
 https://stream.aiir.com/8dprqqdsdskuv
 
 #EXTINF:-1 tvg-chno="0118" tvg-logo="https://img.freeviewplay.tv/sa744a579cd9e6df28332c04818aa1c74?w=160" tvg-id="BBCRadioGaidhael.uk",BBC Radio nan Gaidhael
