@@ -136,8 +136,10 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 #EXTINF:-1 channel-id="samsung-CHBD800001D0" tvg-id="CHBD800001D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800001D0_20251125T102223SQUARE.png" group-title="News" tvg-chno="507",CNN
 https://jmp2.uk/stvp-CHBD800001D0
-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20260317T034210SQUARE.png" group-title="News" tvg-chno="508",CNBC
-https://jmp2.uk/stvp-GBBD3600001NO
+#EXTINF:-1 tvg-id="TalkTV.uk" group-title="News" tvg-chno="508",Talk
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="510" tvg-logo="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640?w=160" tvg-id"TBNUK.uk",TBN UK
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 
