@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz,https://epg.aiir.net/radiodns/spi/3.1/id/rdns.aiir.net/s6119/20250929_PI.xml,https://epg.aiir.net/radiodns/spi/3.1/SI.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz,https://epg.aiir.net/radiodns/spi/3.1/id/rdns.aiir.net/s6119/20250929_PI.xml,https://epg.aiir.net/radiodns/spi/3.1/SI.xml,https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml"
 
 #EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://img.freeviewplay.tv/sff8c5dd4f170316b6c0ae31fb90eee19?w=160" group-title="Entertainment",BBC One Yk&Li HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
