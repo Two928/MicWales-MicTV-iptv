@@ -5,10 +5,137 @@
     <icon src="https://experiencersinternational.github.io/tvsetup/staticch/information-black.png" />
   </channel>
 
-  <!-- Ongoing Program -->
-  <programme start="20241110120000 +0000" stop="99991231235900 +0000" channel="990">
-    <title lang="en">Audio Channel</title>
-    <desc lang="en">Audio Channel Line-up</desc>
-    <category lang="en">Data</category>
+  <channel id="inTVinto.uk">
+  <display-name>inTV into</display-name>
+</channel>
+
+  <channel id="inTV.uk">
+  <display-name>inTV</display-name>
+</channel>
+
+   <channel id="LincsSound.uk">
+    <display-name>Lincs Sound</display-name>
+  </channel>
+
+  <!-- 00:00 → 06:00 -->
+<programme start="20260401000000 +0100" stop="20260401060000 +0100" channel="inTVinto.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 06:00 → 12:00 -->
+<programme start="20260401060000 +0100" stop="20260401120000 +0100" channel="inTVinto.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 12:00 → 18:00 -->
+<programme start="20260401120000 +0100" stop="20260401180000 +0100" channel="inTVinto.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 18:00 → 21:00 -->
+<programme start="20260401180000 +0100" stop="20260401210000 +0100" channel="inTVinto.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 21:00 → 00:00 -->
+<programme start="20260401210000 +0100" stop="20260402000000 +0100" channel="inTVinto.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+  <!-- 00:00 → 06:00 -->
+<programme start="20260401000000 +0100" stop="20260401060000 +0100" channel="inTV.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 06:00 → 12:00 -->
+<programme start="20260401060000 +0100" stop="20260401120000 +0100" channel="inTV.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 12:00 → 18:00 -->
+<programme start="20260401120000 +0100" stop="20260401180000 +0100" channel="inTV.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 18:00 → 21:00 -->
+<programme start="20260401180000 +0100" stop="20260401210000 +0100" channel="inTV.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+<!-- 21:00 → 00:00 -->
+<programme start="20260401210000 +0100" stop="20260402000000 +0100" channel="inTV.uk">
+  <title lang="en">inTV into - inTV Made Simply</title>
+  <desc lang="en">inTV into - inTV Made Simply</desc>
+  <category lang="en">Information</category>
+</programme>
+
+    <!-- 00:00 Non Stop -->
+  <programme start="20260401000000 +0100" stop="20260401060000 +0100" channel="LincsSound.uk">
+    <title lang="en">Non Stop Music</title>
+    <desc lang="en">Continuous music playback</desc>
+    <category lang="en">Music</category>
   </programme>
+
+  <!-- 06:00 Gareth Evans -->
+  <programme start="20260401060000 +0100" stop="20260401100000 +0100" channel="LincsSound.uk">
+    <title lang="en">Gareth Evans</title>
+    <desc lang="en">The Lincs Sound Breakfast Show</desc>
+    <category lang="en">Radio</category>
+  </programme>
+
+  <!-- 10:00 Andy Fenton -->
+  <programme start="20260401100000 +0100" stop="20260401130000 +0100" channel="LincsSound.uk">
+    <title lang="en">Andy Fenton</title>
+    <desc lang="en">Daytimes</desc>
+    <category lang="en">Radio</category>
+  </programme>
+
+  <!-- 13:00 Eddie Shaw -->
+  <programme start="20260401130000 +0100" stop="20260401160000 +0100" channel="LincsSound.uk">
+    <title lang="en">Eddie Shaw</title>
+    <desc lang="en">The Afternoon Show</desc>
+    <category lang="en">Radio</category>
+  </programme>
+
+  <!-- 16:00 Steve Orchard -->
+  <programme start="20260401160000 +0100" stop="20260401190000 +0100" channel="LincsSound.uk">
+    <title lang="en">Steve Orchard</title>
+    <desc lang="en">The Drive Home Show</desc>
+    <category lang="en">Radio</category>
+  </programme>
+
+  <!-- 19:00 Chris Green -->
+  <programme start="20260401190000 +0100" stop="20260401220000 +0100" channel="LincsSound.uk">
+    <title lang="en">Chris Green</title>
+    <desc lang="en">Evening Show</desc>
+    <category lang="en">Radio</category>
+  </programme>
+
+  <!-- 22:00 Non Stop -->
+  <programme start="20260401220000 +0100" stop="20260402000000 +0100" channel="LincsSound.uk">
+    <title lang="en">Non Stop Music</title>
+    <desc lang="en">Continuous music playback</desc>
+    <category lang="en">Music</category>
+  </programme>
+  
+
+  
 </tv>
