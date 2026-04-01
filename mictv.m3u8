@@ -217,10 +217,10 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_no
 #EXTINF:-1 tvg-id="990" tvg-chno="997",Chl Line-up
 https://github.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
 
-#EXTINF:-1 tvg-chno="998",inTV into
+#EXTINF:-1 tvg-id="inTVinto.uk" tvg-chno="998",inTV into
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 
-#EXTINF:-1 tvg-chno="999",inTV
+#EXTINF:-1 tvg-id"inTV.uk" tvg-chno="999",inTV
 https://customer-klxke6nl22colsu4.cloudflarestream.com/5ef4f8b5fddafa9784e25d6687414ccb/manifest/video.m3u8
 
 #EXTINF:-1 tvg-chno="0100" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio",BBC Radio 1
@@ -261,7 +261,7 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 tvg-chno="0116" tvg-id="BBCRadioFoyle.uk",BBC Radio Foyle
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_foyle.mpd
 
-#EXTINF:-1 tvg-chno="0117" channel-id="crid://epg.aiir.net/programmes/47020" tvg-id="crid://epg.aiir.net/programmes/47020" group-title="Radio",Lincs Sound
+#EXTINF:-1 tvg-chno="0117" tvg-id="LincsSound.uk" group-title="Radio",Lincs Sound
 https://stream.aiir.com/8dprqqdsdskuv
 
 #EXTINF:-1 tvg-chno="0118" tvg-logo="https://img.freeviewplay.tv/sa744a579cd9e6df28332c04818aa1c74?w=160" tvg-id="BBCRadioGaidhael.uk",BBC Radio nan Gaidhael
