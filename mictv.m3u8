@@ -214,7 +214,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wa
 #EXTINF:-1 tvg-chno="996" tvg-id="BBCTwoNorthernIreland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2ni-epg.png" group-title="General",BBC Two Northern Ireland
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 
-#EXTINF:-1 tvg-chno="997",Chl Line-up
+#EXTINF:-1 tvg-id="990" tvg-chno="997",Chl Line-up
 https://github.com/Two928/MicWales-MicTV-iptv/raw/refs/heads/main/Channelsforitandepgsforchs/ElevenLabs_2024-11-11T15_01_59_Alice_pre_s50_sb75_se0_b_m2.mp3
 
 #EXTINF:-1 tvg-chno="998",inTV into
