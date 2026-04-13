@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://experiencersinternational.github.io/tvsetup/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz,https://epg.aiir.net/radiodns/spi/3.1/id/rdns.aiir.net/s6119/20250929_PI.xml,https://epg.aiir.net/radiodns/spi/3.1/SI.xml,https://raw.githubusercontent.com/Two928/MicWales-MicTV-iptv/refs/heads/main/Channelsforitandepgsforchs/Epgchl.xml"
 
-#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorkshire.uk" tvg-logo="https://img.freeviewplay.tv/sff8c5dd4f170316b6c0ae31fb90eee19?w=160" group-title="Entertainment",BBC One Yk&Li HD
+#EXTINF:-1 tvg-chno="101" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://img.freeviewplay.tv/sff8c5dd4f170316b6c0ae31fb90eee19?w=160" group-title="Entertainment",BBC One Yk&Li HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-chno="102" tvg-logo="https://img.freeviewplay.tv/s33e5dc6d40b2bfa3249cd9b8327604e4?w=160" group-title="Entertainment",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -37,9 +37,7 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 tvg-chno="115" tvg-name="More4 HD" tvg-logo="https://img.freeviewplay.tv/s885f1093c87216a97631c9a49a2aff89?w=160" tvg-id="More4.uk" group-title="Entertainment",More4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-name="4seven HD" tvg-logo="https://img.freeviewplay.tv/sd3e5d075289cc3ec83180d985fe27995?w=160" tvg-id="4seven.uk" group-title="Entertainment",4seven HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
@@ -82,18 +80,20 @@ https://jmp2.uk/stvp-GBBD3100003J5
 
 
 
-#EXTINF:-1 tvg-chno="301" tvg-id="GREATromance.uk",GREAT! romance
+#EXTINF:-1 tvg-chno="301" tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="GREATromance.uk",GREAT! romance
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-chno="302" tvg-logo="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709?w=160" tvg-id="GREATmovies.uk",GREAT! movies
+#EXTINF:-1 tvg-chno="303" tvg-logo="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709?w=160" tvg-id="GREATmovies.uk",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20260120T031419SQUARE.png" group-title="Movies" tvg-chno="303",GREAT! Mystery
+#EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20260120T031419SQUARE.png" group-title="Movies" tvg-chno="304",GREAT! Mystery
 https://jmp2.uk/stvp-GB3000370X
 
-#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20250107T030813SQUARE.png" group-title="Music" tvg-chno="304",Trace UK
+#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B"  group-title="Music" tvg-chno="304",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
-#EXTINF:-1 channel-id="samsung-GBBC900001SC" tvg-id="GBBC900001SC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" group-title="Music" tvg-chno="305",Trace Urban
+#EXTINF:-1 channel-id="samsung-GBBC900001SC" tvg-id="GBBC900001SC"  group-title="Music" tvg-chno="305",Trace Urban
 https://jmp2.uk/stvp-GBBC900001SC
-#EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20250107T025842SQUARE.png" group-title="Music" tvg-chno="306",XITE Hits
+#EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" group-title="Music" tvg-chno="306",XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
 
 #EXTINF:-1 channel-id="samsung-GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music" tvg-chno="307",Vevo Hip Hop & R&B
@@ -133,7 +133,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-chno="506" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
-#EXTINF:-1 channel-id="samsung-CHBD800001D0" tvg-id="CHBD800001D0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800001D0_20251125T102223SQUARE.png" group-title="News" tvg-chno="507",CNN
+#EXTINF:-1 channel-id="samsung-CHBD800001D0" tvg-id="CHBD800001D0" group-title="News" tvg-chno="507",CNN
 https://jmp2.uk/stvp-CHBD800001D0
 #EXTINF:-1 tvg-id="TalkTV.uk" group-title="News" tvg-chno="508",Talk
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
@@ -172,6 +172,8 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="612" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-id="TVWarehouse.uk" group-title="Shopping",TV Warehouse
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
 
 #EXTINF:-1 tvg-chno="899" tvg-id="BBCRedButton1.uk",BBC RB 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
@@ -281,6 +283,8 @@ https://radio.talksport.com/stream
 #EXTINF:-1 tvg-chno="0125" tvg-id="BBCRadioCymru.uk",BBC Radio Cymru
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_cymru.mpd
 
+
+
 #EXTINF:-1 tvg-chno="0132" tvg-id="SmoothRadio.uk" tvg-logo="https://img.freeviewplay.tv/s2f70eddfc5552c3266e0537ac082383b?w=160" group-title="Radio",Smooth Radio
 http://media-ice.musicradio.com/SmoothUKMP3
 #EXTINF:-1 tvg-chno="0133" tvg-id="HeartRadio.uk" tvg-logo="https://img.freeviewplay.tv/s0847124c6e9a86996b230938605f8a43?w=160" group-title="Radio",Heart Radio
@@ -297,6 +301,11 @@ https://media-ice.musicradio.com/Heart80sMP3
 https://media-ice.musicradio.com/Heart90sMP3
 #EXTINF:-1 tvg-chno="0139" tvg-id="HeartDance.uk" group-title="Radio",Heart Dance
 https://media-ice.musicradio.com/HeartDanceMP3
+
+#EXTINF:-1 tvg-chno="0184" tvg-id="PremierRadio.uk" group-title="Radio",Premier Radio
+https://pcr.streamguys1.com/pcrnational-96k.aac
+#EXTINF:-1 tvg-chno="0185" tvg-id="RNIBConnectRadio.uk" group-title="Radio",RNIB Connect
+https://stream.rcs.revma.com/yv4znr4xcg0uv
 #EXTINF:-1 tvg-chno="0186" tvg-id="BFBSRadio.uk" group-title="Radio",BFBS Radio
 https://direct.sharp-stream.com/ssvcbfbs1.mp3
 
