@@ -5,7 +5,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 #EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoHD.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="STVCentral.uk" tvg-logo="https://img.freeviewplay.tv/s25bea89f0a2f112e9ce42503ccd5a5f7?w=160" group-title="Entertainment",STV
-https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
+https://csm-e-cesharedlgblonlive-74283990.bln1.yospace.com/csm/extlive/stv01,prd-ml-stv-gla-subs/5.m3u8;jsessionid=6A3B0C6594A075F8CC8582E6F2F63CF5.csm-e-cesharedlgblonlive-74283990.bln1.yospace.com?yo.l=true&yo.eb.fb=aHR0cHM6Ly9zdHZ3ZXN0LmFrYW1haXplZC5uZXQvb3V0L3YxLzIxZjE4Y2Q3MzFjZjQ1MjFiOTg3MDk1ZWQ2NTI3MWFjL2luZGV4Lm0zdTg%3D&yo.ls=2,3,4,5,6&yo.p=3&ref=b7ad08c5dcbf9ce04626e439189bc1aef4282b5ed15605c6092f77cd62f0821b&s=web-stv1-west&yo.so=0&yo.po=4&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2Fstv
 #EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4London.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
@@ -39,11 +39,17 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 #EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV 4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
+#EXTINF:-1 tvg-chno="83" tvg-id="	STVCentralPlus1.uk" group-title="Entertainment",STV +1
+https://csm-e-cesharedlgblonlive-73074365.bln1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs/3.m3u8;jsessionid=89B59F8CDAA282CEBF14C9915380ED62.csm-e-cesharedlgblonlive-73074365.bln1.yospace.com?yo.l=true&ref=b7ad08c5dcbf9ce04626e439189bc1aef4282b5ed15605c6092f77cd62f0821b&s=web-stv-plus-1&yo.so=0&yo.po=4&yo.pm=true&ru=https%3A%2F%2Fplayer.stv.tv%2Flive%2Fstv-plus-1
+
 #EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shopping",Gemporia TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" group-title="Movies" tvg-chno="50",GREAT! Mystery
 https://jmp2.uk/stvp-GB3000370X
+
+#EXTINF:-1 tvg-chno="51" tvg-id="IdealWorld.uk" group-title="Shopping",Ideal World
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(HDTJCBeauty)/master.mpd
 
 #EXTINF:-1 tvg-chno="52" tvg-id="GREATromance.uk",GREAT! romance
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
@@ -62,8 +68,13 @@ https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34
 #EXTINF:-1 channel-id="samsung-GBBD1100007AC" tvg-id="GBBD1100007AC" tvg-logo="https://img.freeviewplay.tv/s12a8fc683af5fe3a6b9784d18e1daebe?w=160" tvg-chno="67",True Crime
 https://jmp2.uk/stvp-GBBD1100007AC
 
+#EXTINF:-1 tvg-chno="72" tvg-id="JewelleryMaker.uk" group-title="Shopping",Jewellery Maker
+https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/chunklist_w2126006435_b3048000.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="HobbyMaker.uk" group-title="Shopping",Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="TogetherTV.uk" group-title="Entertainment",Together TV
+https://d1uw9hvdgmm030.cloudfront.net/v1/manifest/8a60d8d801256399c3819ed2744d4bbee0de11a6/TTV_Website_Desktop/9f90aeab-6bfc-442a-ad56-eb2b47508ec7/0.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbbc-epg.png" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.m3u8
