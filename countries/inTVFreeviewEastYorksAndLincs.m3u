@@ -1,0 +1,91 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/gb.xml.gz" tvg-rec="28" catchup-days="28" catchup="shift"
+
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneYorksLincs.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="STVCentral.uk" tvg-logo="https://img.freeviewplay.tv/s25bea89f0a2f112e9ce42503ccd5a5f7?w=160" group-title="Entertainment",STV
+https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4London.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch4-epg.png" group-title="General",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="5.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/ch5-epg.png" group-title="General",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-chno="6" tvg-rec="28" tvg-id="ITV2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv2-epg.png" group-title="Entertainment",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+
+
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBCFour.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" ,BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-rec="28" tvg-id="ITV3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv3-epg.png" group-title="Entertainment",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-rec="28" tvg-id="Film4.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shopping" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/qvc-epg.png",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-rec="28" tvg-name="More4" tvg-logo="https://img.freeviewplay.tv/s885f1093c87216a97631c9a49a2aff89?w=160" tvg-id="More4.uk" group-title="Entertainment",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="TJC.uk" group-title="Shopping" status="online",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-rec="28" tvg-id="BBCThree.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="Undefined",BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv4-epg.png" group-title="Entertainment",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+
+#EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" group-title="Movies" tvg-chno="50",GREAT! Mystery
+https://jmp2.uk/stvp-GB3000370X
+
+#EXTINF:-1 tvg-chno="52" tvg-id="GREATromance.uk",GREAT! romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+
+
+#EXTINF:-1 tvg-chno="61" tvg-logo="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709?w=160" tvg-id="GREATmovies.uk",GREAT! movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="64" group-title="Entertainment",Blaze
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640?w=160" tvg-id"TBNUK.uk",TBN UK
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+
+
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbbc-epg.png" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/cbeebies-epg.png" tvg-id="CBeebies.uk" group-title="Children" status="blocked",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-chno="205" tvg-logo="https://img.freeviewplay.tv/s923f354ebbc467c8b156143eaec10f9a?w=160" tvg-id="Pop.uk",Pop 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-logo="https://img.freeviewplay.tv/s8a7f827d881e501abf92e1ea8d75b0a8?w=160" tvg-id="TinyPop.uk",Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-logo="https://img.freeviewplay.tv/sd21b29267613b35bcf95906e5cbc91d5?w=160" tvg-id="PopUp.uk",Pop Up
+https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-GB3400003A9" tvg-id="GB3400003A9" group-title="Children" tvg-chno="209",Ketchup TV
+https://jmp2.uk/stvp-GB3400003A9
+
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" tvg-url="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcnews-epg.png" group-title="News" status="online",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcparliament-epg.png",BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-chno="236" tvg-id="GBNews.uk" group-title="News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="257" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews
+https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk" group-title="News" tvg-chno="280",Talk
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-chno="601" tvg-id="BBCRedButton1.uk",BBC RB 1
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
