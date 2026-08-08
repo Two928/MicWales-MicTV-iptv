@@ -71,10 +71,9 @@ https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/chunklist_
 #EXTINF:-1 tvg-chno="73" tvg-logo="https://img.freeviewplay.tv/s5ef846aa0da4cae9162b30c92a5831d0?w=160" tvg-id="HobbyMaker.uk" group-title="Shopping",Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-GB300032DX" tvg-id="GB300032DX" group-title="Music" tvg-chno="76",Now 70's
-https://jmp2.uk/stvp-GB300032DX
-#EXTINF:-1 channel-id="samsung-GBBC900003B2" tvg-id="GBBC900003B2" group-title="Music" tvg-chno="78",Now 80s
-https://jmp2.uk/stvp-GBBC900003B2
+
+#EXTINF:-1 tvg-id="Thats70s.uk" tvg-logo="https://img.freeviewplay.tv/s9a82692d1de277164df2708232a211f6?w=160" group-title="Music" tvg-chno="78",Thats 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="83" tvg-id="TogetherTV.uk" tvg-logo="https://img.freeviewplay.tv/se2d188c5e30e694ab984fa183ed47f14?w=160" group-title="Entertainment",Together TV
 https://d1uw9hvdgmm030.cloudfront.net/v1/manifest/8a60d8d801256399c3819ed2744d4bbee0de11a6/TTV_Website_Desktop/9f90aeab-6bfc-442a-ad56-eb2b47508ec7/0.m3u8
