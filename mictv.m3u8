@@ -7,7 +7,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-chno="103" tvg-id="STVCentral.uk" tvg-logo="https://img.freeviewplay.tv/s25bea89f0a2f112e9ce42503ccd5a5f7?w=160" group-title="Entertainment",STV HD
 https://stvwest.akamaized.net/out/v1/0a8c175eec414b0d8bf7ac8178ad7aae/index.m3u8
 #EXTINF:-1 tvg-chno="104" tvg-name="Channel 4 London HD" tvg-id="Channel4London.uk" tvg-logo="https://img.freeviewplay.tv/scde5fbe2c47208afb4fdb979e2b4b4c6?w=160" group-title="Entertainment",Channel 4 HD
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 tvg-chno="105" tvg-id="5.uk",5 HD
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
@@ -37,7 +39,9 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 tvg-chno="115" tvg-name="More4 HD" tvg-logo="https://img.freeviewplay.tv/s885f1093c87216a97631c9a49a2aff89?w=160" tvg-id="More4.uk" group-title="Entertainment",More4 HD
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #EXTINF:-1 tvg-chno="116" tvg-name="4seven HD" tvg-logo="https://img.freeviewplay.tv/sd3e5d075289cc3ec83180d985fe27995?w=160" tvg-id="4seven.uk" group-title="Entertainment",4seven HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
@@ -81,7 +85,9 @@ https://jmp2.uk/stvp-GBBD3100003J5
 
 
 #EXTINF:-1 tvg-chno="301" tvg-id="Film4HD.uk" tvg-logo="https://raw.githubusercontent.com/ExperiencersInternational/tvsetup/refs/heads/main/tvg-ico/film4-epg.png" group-title="Movies",Film4 HD
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTINF:-1 tvg-chno="302" tvg-id="GREATromance.uk",GREAT! romance
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-chno="303" tvg-logo="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709?w=160" tvg-id="GREATmovies.uk",GREAT! movies
@@ -89,28 +95,29 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 #EXTINF:-1 channel-id="samsung-GB3000370X" tvg-id="GB3000370X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000370X_20260120T031419SQUARE.png" group-title="Movies" tvg-chno="304",GREAT! Mystery
 https://jmp2.uk/stvp-GB3000370X
 
-#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B"  group-title="Music" tvg-chno="304",Trace UK
+#EXTINF:-1 channel-id="samsung-GBBD19000026B" tvg-id="GBBD19000026B"  group-title="Music" tvg-chno="350",Trace UK
 https://jmp2.uk/stvp-GBBD19000026B
-#EXTINF:-1 channel-id="samsung-GBBC900001SC" tvg-id="GBBC900001SC"  group-title="Music" tvg-chno="305",Trace Urban
+#EXTINF:-1 channel-id="samsung-GBBC900001SC" tvg-id="GBBC900001SC"  group-title="Music" tvg-chno="351",Trace Urban
 https://jmp2.uk/stvp-GBBC900001SC
-#EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" group-title="Music" tvg-chno="306",XITE Hits
+#EXTINF:-1 channel-id="samsung-GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music" tvg-chno="352",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C
+#EXTINF:-1 channel-id="samsung-GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music" tvg-chno="353",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 channel-id="samsung-GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music" tvg-chno="354",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 channel-id="samsung-GBBB3800005QO" tvg-id="GBBB3800005QO" group-title="Music" tvg-chno="355",XITE Hits
 https://jmp2.uk/stvp-GBBB3800005QO
 
-#EXTINF:-1 channel-id="samsung-GBBD2300001C0" tvg-id="GBBD2300001C0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music" tvg-chno="307",Vevo Hip Hop & R&B
-https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 channel-id="samsung-GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music" tvg-chno="308",Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 channel-id="samsung-GB300032DX" tvg-id="GB300032DX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20250218T040923SQUARE.png" group-title="Music" tvg-chno="309",Now 70's
-https://jmp2.uk/stvp-GB300032DX
-#EXTINF:-1 channel-id="samsung-GBBC900003B2" tvg-id="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" group-title="Music" tvg-chno="310",Now 80s
-https://jmp2.uk/stvp-GBBC900003B2
-#EXTINF:-1 channel-id="samsung-GB300033HI" tvg-id="GB300033HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music" tvg-chno="311",Now 90's & 00's
-https://jmp2.uk/stvp-GB300033HI
-#EXTINF:-1 channel-id="samsung-GBBD1900009UD" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Music" tvg-chno="312",Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 channel-id="samsung-GBBC2100002HP" tvg-id="GBBC2100002HP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Music" tvg-chno="313",Vevo '90s & '00s
-https://jmp2.uk/stvp-GBBC2100002HP
 
+#EXTINF:-1 channel-id="samsung-GB300032DX" tvg-id="GB300032DX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300032DX_20250218T040923SQUARE.png" group-title="Music" tvg-chno="356",Now 70's
+https://jmp2.uk/stvp-GB300032DX
+#EXTINF:-1 channel-id="samsung-GBBC900003B2" tvg-id="GBBC900003B2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" group-title="Music" tvg-chno="357",Now 80s
+https://jmp2.uk/stvp-GBBC900003B2
+#EXTINF:-1 channel-id="samsung-GB300033HI" tvg-id="GB300033HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300033HI_20250218T040037SQUARE.png" group-title="Music" tvg-chno="358",Now 90's & 00's
+https://jmp2.uk/stvp-GB300033HI
+
+#EXTINF:-1 tvg-chno="359" tvg-id="Thats70s.uk",That's 70s
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/22894ca6-9ffa-11f1-8016-96f4e66d55b3/2/848x480_1249600/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-GB300036IM" tvg-id="GB300036IM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300036IM_20250218T040040SQUARE.png" group-title="Sport" tvg-chno="401",PGA Tour
 https://jmp2.uk/stvp-GB300036IM
@@ -135,12 +142,9 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 #EXTINF:-1 channel-id="samsung-CHBD800001D0" tvg-id="CHBD800001D0" group-title="News" tvg-chno="507",CNN
 https://jmp2.uk/stvp-CHBD800001D0
-#EXTINF:-1 tvg-id="TalkTV.uk" group-title="News" tvg-chno="508",Talk
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="510" tvg-logo="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640?w=160" tvg-id"TBNUK.uk",TBN UK
-https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+
 
 
 
